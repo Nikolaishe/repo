@@ -1,4 +1,7 @@
 Print(“Hello world”)
 Print(“Hello everybody”)
+<<<<<<< HEAD
+=======
 Print(“Hello”)
 Print(“hi”)
+>>>>>>> master
